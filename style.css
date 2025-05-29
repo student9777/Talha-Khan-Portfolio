@@ -7,7 +7,7 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background: url('background.jpeg') no-repeat center center fixed;
+    background: url('https://img.freepik.com/free-vector/paper-style-dynamic-lines-background_23-2149008629.jpg?semt=ais_hybrid&w=740') no-repeat center center fixed;
     background-size: cover;
     color: #333;
     line-height: 1.6
@@ -19,7 +19,7 @@ header {
     position: relative;
     text-align: center;
     padding: 20px;
-    background: url('mountanes.jpg') no-repeat center center;
+    background: url('https://www.shutterstock.com/image-photo/blank-black-corporate-stationery-on-600nw-1051434977.jpg') no-repeat center center;
     background-size: cover;
     color: white;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
